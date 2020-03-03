@@ -1,0 +1,1 @@
+export default (value: string) => console.log(`I am Dumb: ${value}`);
